@@ -7,7 +7,7 @@ The goal for these study sessions is to get help with the course materials and m
 We will be reviewing some concepts from the lessons from time to time but it will mostly be a free format. You should plan on how you want to spend these sessions. We recommend you watch at least a video or two ahead of the sessions and start thinking about what you want to build to get the most out of your time.
 
 ## Getting setup
-There are quick guides on how to get started with the course materials on the course page. We recommend you use [colab](https://course.fast.ai/start_colab.html) or [kaggle kernels](https://course.fast.ai/start_kaggle.html) since they are free to use. Whatever platform you choose, its important you pick the one you're most comfortable or familiar. We don't to be stuck setting up environments rather, use our time to get our hands dirty writing code
+There are quick guides on how to get started with the course materials on the course page. We recommend you use [colab](https://course.fast.ai/start_colab.html) or [kaggle kernels](https://course.fast.ai/start_kaggle.html) since they are free to use. Whatever platform you choose, its important you pick the one that's most comfortable or familiar to you. We don't want to be stuck setting up environments rather, use our time to get our hands dirty writing code
 
 ## How to do the course
 A few helpful guidelines on how to get the most out of the course:
