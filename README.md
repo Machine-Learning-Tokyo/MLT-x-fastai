@@ -23,3 +23,17 @@ There is an entire [thread](https://forums.fast.ai/t/share-your-work-here/27676/
 - [Sign Language Predictor](https://github.com/keyurparalkar/ASL-live-predictor)
 - [Kuzushiji Classifier](https://github.com/Machine-Learning-Tokyo/kuzushiji-lite) (Advanced)
 - [Colorize old images](https://github.com/jantic/DeOldify) (Advanced)
+
+## Advice from Jeremy Howard
+Twitter thread by @math_rachel
+https://twitter.com/math_rachel/status/1104506606740430848
+
+- Don’t try to stop & understand everything.
+- Please run the code, really run the code.
+- Pick one project. Do it really well. Make it fantastic.
+- It’s okay to feel intimidated, there’s a lot, but just pick one piece & dig in.
+- If you’re stuck, keep going.
+- The answer to the question “Should I try blah?” is to try blah and see, that’s how you become a good practitioner.
+- Don’t be intimidated. It’s meant to be intense.
+- Don't waste time getting a ton of data. Start small.
+- Perhaps the most important is to get together with others. Learning works a lot better if you have that social experience. Build things. It doesn’t have to be amazing. Just finish something. -- @jeremyphoward
