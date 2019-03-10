@@ -37,3 +37,4 @@ https://twitter.com/math_rachel/status/1104506606740430848
 - Don’t be intimidated. It’s meant to be intense.
 - Don't waste time getting a ton of data. Start small.
 - Perhaps the most important is to get together with others. Learning works a lot better if you have that social experience. Build things. It doesn’t have to be amazing. Just finish something. -- @jeremyphoward
+Accompanying [Thread](https://forums.fast.ai/t/things-jeremy-says-to-do/36682) from forums
